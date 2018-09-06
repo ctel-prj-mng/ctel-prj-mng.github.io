@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Сайт поддержки дисциплины «Управление программными проектами»
+Сайт поддержки дисциплины «Управление программными проектами» и «Программной инженерии»
 
 You can use the [editor on GitHub](https://github.com/ctel-prj-mng/ctel-prj-mng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
